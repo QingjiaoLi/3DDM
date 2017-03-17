@@ -3,7 +3,7 @@ Genome structures are dynamic and non-randomly organized in the nucleus of highe
 
 Here is the overview of the population-based genome structure modeling approach and its application to the Drosophila genome
 <p align="center">
-  <img src="https://github.com/QingjiaoLi/3DDM/blob/master/Fig1.png" width="600" />
+  <img src="https://github.com/QingjiaoLi/3DGenome_FruitFly/blob/master/images/Fig1.png" width="600" />
 </p>
 
 A preprint can be found on [bioRxiv](http://biorxiv.org/content/early/2017/01/15/099911)
