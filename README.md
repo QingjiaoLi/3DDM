@@ -19,3 +19,7 @@ Requirements:
 - Python packages ``numpy``, ``scipy``
 - IMP version 1 ([Integrative Modeling Package](https://integrativemodeling.org/1.0/download/))
 
+How to run:
+- Download python codes and shell scripts
+- Download the input files from the folder input
+- Follow the steps in instruction.sh
