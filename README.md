@@ -7,7 +7,9 @@ Here is the overview of the population-based genome structure modeling approach 
 </p>
 
 A preprint can be found on [bioRxiv](http://biorxiv.org/content/early/2017/01/15/099911)
+
 Li, Q., et al. (2017). "The 3D genome organization of Drosophila melanogaster through data integration." bioRxiv.
+
 ---
 
 This is a collection of modeling codes in python and pbs scripts for submitting jobs. We highly recommend users to run on high performance computing environment (HPC) because of computational resource and running time. 
