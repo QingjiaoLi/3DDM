@@ -28,4 +28,4 @@ How to run:
 
 ---
 ### 
-The population of structures (pdb files) generated in the manuscript can be dowonloaded from our webserver ()
+The population of structures (pdb files) generated in the manuscript can be dowonloaded from https://www.dropbox.com/s/svwqxee5xghr6nv/PDBs.tar.gz?dl=0
